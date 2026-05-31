@@ -75,20 +75,12 @@ Olá! Atualmente curso Ciência da Computação na UFRRJ, onde venho desenvolven
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AliciaNascimento05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="left">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AliciaNascimento05&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000" />
+  <!---<img height="160" src="https://github-readme-stats.vercel.app/api?username=AliciaNascimento05&show_icons=true&hide_border=true&theme=merko&bg_color=00000000" />--->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlbmplM2lobzhpcWhvMnByajdrcXludDY4MHZmOXM2aWx0a3dsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="190" alt="Matrix" />
+</div>
+<br>
+</td></tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaNascimento05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
